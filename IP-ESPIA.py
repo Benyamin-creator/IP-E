@@ -1,4 +1,4 @@
-#coded by N17RO (noob hackers)
+#coded by BENYAMIN CREATOR
 
 #modules required
 import time
